@@ -1,0 +1,58 @@
+
+---Downloaded files---
+The import files for: Demo One were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://blog.anthonysandesh.com
+Data file = /home/u733146658/domains/anthonysandesh.com/public_html/blog/wp-content/uploads/2022/05/demo-content-import-file_2022-05-01__03-40-41.xml
+Widget file = /home/u733146658/domains/anthonysandesh.com/public_html/blog/wp-content/uploads/2022/05/demo-widgets-import-file_2022-05-01__03-40-41.json
+Customizer file = /home/u733146658/domains/anthonysandesh.com/public_html/blog/wp-content/uploads/2022/05/demo-customizer-import-file_2022-05-01__03-40-41.dat
+
+---Importing content---
+[WARNING] Failed to import "Contact form 1": Invalid post type wpcf7_contact_form
+
+Max execution time after content import = 300
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing widgets---
+Sidebar : 
+
+GB: Author Widget - HOLA ! IT&#039;S ME - Widget already exists
+GB: Social Widget - SOCIAL - Widget already exists
+GB: Posts Widget - POPULAR POSTS - Widget already exists
+GB: Posts Widget - Latest Post - Widget already exists
+
+Canvas Sidebar : 
+
+GB: Posts Widget - Just Now - Widget already exists
+GB: Social Widget - Social Links - Widget already exists
+GB: Posts Widget - Popular Post - Widget already exists
+GB: Author Widget - About Me - Widget already exists
+
+Top Widget Area : 
+
+Image - No Title - Widget already exists
+
+Bottom Widget Area : 
+
+Image - No Title - Widget already exists
+
+Footer Left : 
+
+GB: Posts Widget - Popular Post - Widget already exists
+
+Footer Middle : 
+
+Tag Cloud - Tags - Widget already exists
+GB: Social Widget - Share It - Widget already exists
+
+Footer Right : 
+
+GB: Posts Widget - Recent Post - Widget already exists
+
+
+
+---et-after-demo-content-import---
+

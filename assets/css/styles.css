@@ -150,3 +150,46 @@
 
 
 
+
+/* Custom: Navbar text logo styling */
+.mh-header .navbar-brand{
+  font-family:'Pacifico',cursive;
+  font-size:48px;
+  font-weight:400;
+  line-height:1;
+  padding:0;
+  margin:0;
+  display:inline-block;
+}
+.white-vertion .mh-header .navbar-brand{color:#000}
+.dark-vertion .mh-header .navbar-brand{color:#fff}
+
+/* Theme-aware styles for hero action buttons */
+.hero-actions .btn{
+  border:2px solid;
+  transition:background-color .2s ease,color .2s ease,border-color .2s ease;
+}
+
+/* Light theme: dark buttons */
+.white-vertion .hero-actions .btn{
+  color:#000;
+  border-color:#000;
+  background-color:transparent;
+}
+.white-vertion .hero-actions .btn:hover,
+.white-vertion .hero-actions .btn:focus{
+  background-color:#000;
+  color:#fff;
+}
+
+/* Dark theme: light buttons */
+.dark-vertion .hero-actions .btn{
+  color:#fff;
+  border-color:#fff;
+  background-color:transparent;
+}
+.dark-vertion .hero-actions .btn:hover,
+.dark-vertion .hero-actions .btn:focus{
+  background-color:#fff;
+  color:#000;
+}

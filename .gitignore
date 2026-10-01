@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Vim swap files
+*.swp
+*.swo
+*~
+
+# Apache configs (no effect on GitHub Pages)
+.htaccess
